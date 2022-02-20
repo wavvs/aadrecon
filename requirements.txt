@@ -1,0 +1,4 @@
+click
+xmltodict
+requests
+dnspython
